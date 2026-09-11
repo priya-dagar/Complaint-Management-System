@@ -16,11 +16,11 @@ Complaint" form for QA review.
 
 ## Screenshots
 
-> _Add screenshots here before submitting._
+
 
 **Main dashboard — complaint form + AI intake assistant**
 
-[Dashboard](docs/screenshots/dashboard.png)
+![Dashboard](docs/screenshots/dashboard.png)
 
 **A complaint analyzed from pasted text**
 
