@@ -24,15 +24,15 @@ Complaint" form for QA review.
 
 **A complaint analyzed from pasted text**
 
-[Analyzed complaint](docs/screenshots/analyzed-complaint.png) 
+![Analyzed complaint](docs/screenshots/analyzed-complaint.png) 
 
 **Uploading a PDF complaint document**
 
-[File upload](docs/screenshots/file-upload.png)
+![File upload](docs/screenshots/file-upload.png)
 
 **Logged complaints list**
 
-[Complaints list](docs/screenshots/complaints-list.png) 
+![Complaints list](docs/screenshots/complaints-list.png) 
 
 ## Tech stack
 
